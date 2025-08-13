@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏠 Home"
+              "title": "index"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🏠 Home"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -195,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🏠 Home"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠 Home"
+              "title": "Outline of index"
             }
           }
         ]
@@ -248,11 +248,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "index.md",
     "Technical Primitives/Canvas.md",
     "Technical Primitives/Real-time collaboration.md",
     "Technical Primitives/Template.md",
@@ -278,7 +280,6 @@
     "Technical Primitives/Depth of Focus Controls.md",
     "Technical Primitives/Cross-Tool Connections.md",
     "Tools/Roam Discourse Graph plugin.md",
-    "Technical Primitives/Block Quote.md",
     "_assets/Evergreen.png",
     "_assets/Pasted image 20240711002654.png",
     "_assets/Pasted image 20240419170716.png",

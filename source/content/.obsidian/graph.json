@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Tools -file:Home",
+  "search": "-path:Tools -file:Home -path:\"Technical Primitives\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -39,13 +39,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.35849609375,
+  "nodeSizeMultiplier": 1.16549479166667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.126546223958333,
-  "repelStrength": 12.8955078125,
-  "linkStrength": 0.9423828125,
+  "centerStrength": 0,
+  "repelStrength": 13.3723958333333,
+  "linkStrength": 0.828043619791667,
   "linkDistance": 30,
-  "scale": 0.44124978885003,
+  "scale": 0.4507768626497158,
   "close": false
 }
