@@ -1,23 +1,17 @@
-# Obsidian / Quartz / GitHub Pages Template
+## About
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+This repository hosts the files for an in-progress hypertext notebook that describes some key findings from our [Sloan-funded research project](https://oasisresearchlab.github.io/synthesis-infrastructure-foundation/index.html) investigating novel tools and organizational structures that can support new infrastructures for research synthesis. The research here is led by [Joel Chan](http://joelchan.me/) and [Siyi Zhu](https://www.siyizhu.net/) out of the [Human-Computer Interaction Lab](https://hcil.umd.edu/) at the University of Maryland, and builds on and extends earlier work done in collaboration with [Robert Haisfield](https://robhaisfield.com/about) and [Brendan Langen](https://www.brendanlangen.com/) on [Scaling Synthesis](https://scalingsynthesis.com/). This notebook focuses on our findings about how researchers use novel **tools** (such as [hypertext notebooks](https://scalingsynthesis.com/q-what-is-a-hypertext-notebook/)) to support the sensemaking work that is needed for research synthesis. 
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+## Technical
 
-## Basic setup
+Many thanks to Defender of Basic for creating this template and the tutorial, and to Jacky Zhao for creating Quartz, which is the static site generator used in this template.
 
 Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
+Quartz: https://quartz.jzhao.xyz
 
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
+## Contributing
 
-## Raw HTML pages
-
-There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
-
-I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
-
-## Further customization
-
-> Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
-
-https://quartz.jzhao.xyz/configuration
+Issues or pull requests are welcome. Here are some ideas for what we expect might need improvement over time:
+- The list of tools is representative but not exhaustive, so you’re welcome to suggest new tools to add, especially if they relate to any of the technical primitives and/or use patterns.
+- Many of the tools also evolve (sometimes with extensive plugin ecosystems), so various technical primitives or use patterns might be possible to enact in tools that we’ve missed.
+- We’d also be really keen to hear of any other patterns you’ve observed or come up with.

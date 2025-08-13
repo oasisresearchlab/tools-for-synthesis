@@ -23,7 +23,7 @@ These are just the patterns that our participants reported were useful for them.
 Ultimately, though, the strength of our data is in the description, rather than causal evidence of efficacy. We encourage you to test these patterns out yourself and share back the results!
 ## Can you fix errors or otherwise improve this notebook? 
 
-Yes, issues or pull requests are welcome on our github repo! Here are some ideas for what we expect might need improvement over time:
+Yes, issues or pull requests are welcome on our [github repository for this notebook](https://github.com/oasisresearchlab/tools-for-synthesis)! Here are some ideas for what we expect might need improvement over time:
 * The list of tools is representative but not exhaustive, so you're welcome to suggest new tools to add, especially if they relate to any of the technical primitives and/or use patterns. 
 * Many of the tools also evolve (sometimes with extensive plugin ecosystems), so various technical primitives or use patterns might be possible to enact in tools that we've missed. 
 * We'd also be really keen to hear of any other patterns you've observed or come up with. 
