@@ -1,0 +1,1 @@
+https://github.com/mdelobelle/obsidian_supercharged_links

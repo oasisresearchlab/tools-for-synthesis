@@ -1,0 +1,1 @@
+[[Bear]] is a hypertext based notetaking app

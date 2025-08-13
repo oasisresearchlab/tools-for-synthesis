@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Tools -file:Home",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Core Problems\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Functions  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Use Patterns\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8365871
+      }
+    },
+    {
+      "query": "path:\"Technical Primitives\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084290
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.35849609375,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.126546223958333,
+  "repelStrength": 12.8955078125,
+  "linkStrength": 0.9423828125,
+  "linkDistance": 30,
+  "scale": 0.44124978885003,
+  "close": false
+}
